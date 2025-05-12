@@ -1,0 +1,16 @@
+*{
+ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --black:#0f0f0f;
+  --Gold: #d4af37;
+  --Dark-Gray: #2e2e2e;
+  --Cream: #f9f5f0;
+  --Light-Gray: #b0b0b0;
+  --Wgite: #fff;
+  --Burgundy: #800020;
+}
