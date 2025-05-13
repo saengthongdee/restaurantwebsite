@@ -35,7 +35,7 @@ function Navbar() {
     <div ref={containerRef}>
       <div className="overlay"></div>
       <nav>
-        <div className="logo">Restaurant</div>
+        <div className="logo">The Gilded Fork</div>
 
         <div className="menu Animation-box slide-bottom">
           <ul>

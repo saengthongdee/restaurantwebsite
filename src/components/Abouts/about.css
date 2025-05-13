@@ -1,0 +1,100 @@
+.about-container{
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 5rem;
+    gap: 2rem;
+
+    h1{
+        color: var(-- black);
+    }
+    .box-text{
+        width: 90%;
+        height: 70%;
+        display: flex;
+        gap: 3rem;
+       
+       
+
+        .image{
+            width: 50%;
+            height: 100%;
+            display: flex;
+            gap: 1rem;
+            position: relative;
+
+            .image-left{
+                width: 60%;
+                height: 100;
+               
+                background-image: url('/public/AboutImage2.png');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border-radius: 10px;
+                z-index: 30;
+               box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+                border: 1px solid black;
+            }
+            .image-right{
+                /* width: 40%; */
+                /* height: 80%; */
+                width: 250px;
+                height: 250px;
+                position: absolute;
+                top: 20px;
+                right: 0;
+                
+
+                background-image: url('/public/AboutImage1.png');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border-radius: 10px;
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+                
+            }
+            
+        }
+        .box-text-about{
+            width: 50%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: start;
+            flex-direction: column;
+            gap:1.5rem;
+
+            h3{
+                color: var(--Dark-Gray);
+            }
+            p{
+                color: var(--Dark-Gray);
+            }
+
+            .btn{
+                background: linear-gradient(45deg, #6c5302, #c9a224);
+                color: #fff;
+                border-radius: 5px;
+                
+                padding: .5rem 1rem;
+                text-transform: uppercase;
+                font-size: 14.5px;
+                box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+                border: 1px solid black;
+                cursor:pointer;
+                transition: .35s ease-in-out;
+            }
+            .btn:hover{
+                background: #fff;
+                color: #6c5302;
+            }
+        }
+    }
+    
+    
+}
