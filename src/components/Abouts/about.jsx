@@ -25,6 +25,12 @@ function about() {
               ambiance for special occasions, romantic evenings, or corporate
               gatherings.
             </p>
+            <p className="about-mobile">
+              At Restaurant, fine dining is not just a meal — it's a celebration
+              of taste, elegance, and craftsmanship. We take pride in curating
+              an unforgettable culinary experience that combines meticulously
+              selected ingredients, masterful techniques, and impeccable
+            </p>
             <div className="btn">learn more</div>
             
           </div>
