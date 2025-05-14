@@ -4,6 +4,7 @@ import Nav from './components/navbar/navbar';
 import HeroImage from './components/heroimage/heroimage'; 
 import About from './components/Abouts/about';
 import Menu from './components/menu/menu';
+import Booking from './components/booking/booking';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
           <HeroImage/>
           <About/>
           <Menu />
+          <Booking/>
       </div>
     </>
   )

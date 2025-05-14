@@ -1,0 +1,74 @@
+.container-booking{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    
+    .image{
+        width: 45%;
+        height: 100%;
+        background-color: rgb(186, 190, 193);
+        background-image: url('../../../public/booking.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .input-form{
+        width: 55%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 0 2rem;
+        gap: 1rem;
+        background-color: var(--Dark-Gray);
+
+        h3{
+            width: 100%;
+            padding-left: .5rem;
+            color: #fff;
+            color: var(--Gold);
+        }
+        h1{
+            width: 100%;
+            padding-left: .5rem;
+            color: #fff;
+        }
+        .text-form{
+            width: 100%;
+            height: 15vh;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+
+            input{
+                font-size: 15px;
+                padding: .5rem;
+                border: none;
+                outline: none;
+                border-radius: 5px;
+            }
+        }
+        .lean{
+            width: 100%;
+            height: 100px;
+            padding: .5rem;
+            font-size: 15px;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+        }
+        .submit{
+            width: 100%;
+            height: 50px;
+            border: none;
+            outline: none;
+            background-color: rgb(181, 154, 0);
+            color: #fff;
+            font-size: 20px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    }
+}

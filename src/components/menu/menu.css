@@ -21,6 +21,7 @@
       text-align: center;
       border-bottom: 2px solid var(--Gold);
       padding: 1.5rem 0;
+      color: #333;
     }
 
     .box-list-menu {
@@ -35,7 +36,6 @@
         align-items: center;
         border-bottom: 2px solid var(--Gold);
         text-transform: uppercase;
-        /* color: var(--Gold); */
         margin-bottom: 2rem;
 
         .box-control {
