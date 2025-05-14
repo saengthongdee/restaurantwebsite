@@ -1,0 +1,188 @@
+{
+  "hors_doeuvre": [
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.QgOy9_eTiFeTcenZrGEP9gHaEt&pid=Api&P=0&h=180",
+      "name": "Truffle Mushroom Arancini",
+      "description": "Crispy risotto balls with black truffle aioli",
+      "price": 380
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.wRbGGWISxDYxz9lBiKJfjwHaE8&pid=Api&P=0&h=180",
+      "name": "Foie Gras Terrine",
+      "description": "Duck liver terrine with fig jam and brioche",
+      "price": 590
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.e6udESbiERzix-b-QIZjKwHaE8&pid=Api&P=0&h=180",
+      "name": "Oyster Mignonette",
+      "description": "Fresh oyster with shallot vinaigrette and cucumber pearls",
+      "price": 450
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.P3NmZJe5jvrnf1ZEJSKvmgHaE8&pid=Api&P=0&h=180",
+      "name": "Beef Tartare",
+      "description": "Hand-chopped Wagyu with quail egg and mustard",
+      "price": 620
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.GVqfikd1SLIP9S4cqCJNGQAAAA&pid=Api&P=0&h=180",
+      "name": "Burrata & Heirloom Tomato",
+      "description": "Creamy burrata with aged balsamic and basil oil",
+      "price": 340
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.MbeFMUzvX6q6ODiXpvB63wHaHa&pid=Api&P=0&h=180",
+      "name": "Lobster Bisque",
+      "description": "Silky lobster soup with cognac cream",
+      "price": 410
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.UYuCn0PNSD19Sa7PuBifFAHaEK&pid=Api&P=0&h=180",
+      "name": "Seared Scallops",
+      "description": "Hokkaido scallops with cauliflower purée",
+      "price": 670
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.mraXA8IBaXg2bWTx5lItYQHaD4&pid=Api&P=0&h=180",
+      "name": "Tuna Tartare Cone",
+      "description": "Bluefin tuna with avocado and yuzu mayo",
+      "price": 490
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.eyYuYlZFBmI-Li0DB10PrAHaE8&pid=Api&P=0&h=180",
+      "name": "Smoked Duck Carpaccio",
+      "description": "Thin-sliced duck breast with orange glaze",
+      "price": 420
+    },
+    {
+      "image": "https://tse1.mm.bing.net/th?id=OIP.y4Kpm5co7dtE5eDFAki9TAHaFj&pid=Api&P=0&h=180",
+      "name": "Asparagus Tempura",
+      "description": "Crispy green asparagus with truffle salt",
+      "price": 320
+    }
+  ],
+  "pasta_or_risotto": [
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Ht7XsdR2VVJ9g_VJnxgabgHaEo&pid=Api&P=0&h=180",
+      "name": "Black Truffle Tagliatelle",
+      "description": "Homemade egg pasta with truffle cream",
+      "price": 850
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.1eSCySjwbruoQj6_LUESuQHaEE&pid=Api&P=0&h=180",
+      "name": "Lobster Risotto",
+      "description": "Creamy Arborio rice with lobster tail and bisque",
+      "price": 980
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.L0MEGqkvWSobNnH-aKDZoQHaEJ&pid=Api&P=0&h=180",
+      "name": "Mushroom Risotto",
+      "description": "Porcini and shiitake with Parmesan crisps",
+      "price": 720
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.EBkDSG9XCPV0zs8A9yPbEAHaFj&pid=Api&P=0&h=180",
+      "name": "Spaghetti Carbonara",
+      "description": "Guanciale, egg yolk, pecorino romano",
+      "price": 590
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.kiAlaga460z3lRQMPjXzKgHaE8&pid=Api&P=0&h=180",
+      "name": "Squid Ink Linguine",
+      "description": "Seafood medley with garlic white wine sauce",
+      "price": 770
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.l6XjSFTTu-X5gMOOFWI7QgHaE7&pid=Api&P=0&h=180",
+      "name": "Ricotta Spinach Ravioli",
+      "description": "Handmade ravioli with burnt sage butter",
+      "price": 640
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.voXOWstVTWF24ChZJ2U79AHaE7&pid=Api&P=0&h=180",
+      "name": "Duck Ragu Pappardelle",
+      "description": "Slow-cooked duck in red wine tomato sauce",
+      "price": 780
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.xUgZH4GOVmNUn3B6kM_PXgHaE8&pid=Api&P=0&h=180",
+      "name": "Truffle Mac & Cheese",
+      "description": "Gourmet cheddar blend with black truffle",
+      "price": 560
+    },
+    {
+      "image": "https://tse1.mm.bing.net/th?id=OIP.4YUTxnIqGAAyDfGDiXA4YAHaDt&pid=Api&P=0&h=180",
+      "name": "Cacio e Pepe",
+      "description": "Pecorino and black pepper classic Roman pasta",
+      "price": 520
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.l3uqj5SnUbEj5NP9XEoaLgHaE6&pid=Api&P=0&h=180",
+      "name": "Sea Urchin Angel Hair",
+      "description": "Uni pasta with garlic butter and ikura",
+      "price": 990
+    }
+  ],
+  "releve_or_remove": [
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.YNeZJP4J6kb-7sQF_cZBugHaEJ&pid=Api&P=0&h=180",
+      "name": "Wagyu Striploin A5",
+      "description": "Grilled to perfection with red wine jus",
+      "price": 2200
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.pstIzi6yVnEm4v3efL71rQHaFu&pid=Api&P=0&h=180",
+      "name": "Sous Vide Duck Breast",
+      "description": "With orange glaze and beet purée",
+      "price": 980
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.sfhTi7a8JD3dXX-QRS1sJQHaFc&pid=Api&P=0&h=180",
+      "name": "Lamb Rack Herb Crust",
+      "description": "With mint jus and pomme purée",
+      "price": 1300
+    },
+    {
+      "image": "https://tse4.mm.bing.net/th?id=OIP.v7df-rv690gT1fYcWVdsWwHaE8&pid=Api&P=0&h=180",
+      "name": "Atlantic Halibut",
+      "description": "Pan-seared with beurre blanc sauce",
+      "price": 890
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.9f1m0Ho2e6TIaOKkrnFVQgHaHa&pid=Api&P=0&h=180",
+      "name": "Veal Tenderloin",
+      "description": "With porcini cream and potato gratin",
+      "price": 1150
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.OnDLNRV7PzkWQ762RAFjcgHaEf&pid=Api&P=0&h=1800",
+      "name": "Grilled King Salmon",
+      "description": "With dill yogurt and fennel salad",
+      "price": 870
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.Dt2AHhFn7HT3C3QkJQUSRAHaEK&pid=Api&P=0&h=180",
+      "name": "Cornish Hen Roulade",
+      "description": "Stuffed with wild mushroom and chestnut",
+      "price": 880
+    },
+    {
+      "image": "https://tse1.mm.bing.net/th?id=OIP.QA6kSHxGR4oJjRwvJ06xVgHaE8&pid=Api&P=0&h=180",
+      "name": "Lobster Thermidor",
+      "description": "Baked lobster with creamy mustard sauce",
+      "price": 1900
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.cirfk3N2RwqsuzfMgkImuwAAAA&pid=Api&P=0&h=180",
+      "name": "Short Rib Bourguignon",
+      "description": "Slow braised in red wine, with root vegetables",
+      "price": 990
+    },
+    {
+      "image": "https://tse2.mm.bing.net/th?id=OIP.j4AUCNUqmRVjNhCcdZuyFAHaHa&pid=Api&P=0&h=180",
+      "name": "Vegetable Mille-feuille",
+      "description": "Layered zucchini, squash, and tomato with basil oil",
+      "price": 760
+    }
+  ]
+}

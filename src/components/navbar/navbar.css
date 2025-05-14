@@ -40,7 +40,7 @@ nav .menu ul li {
 }
 
 nav .menu ul li a {
-  color: #fff;
+  color: rgb(226, 162, 0);
   text-decoration: none;
   transition: 0.25s ease-in-out;
 }

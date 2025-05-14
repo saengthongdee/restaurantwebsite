@@ -1,6 +1,7 @@
 import React, { useState,useRef,useEffect } from 'react';
 import './navbar.css';
 import { RxHamburgerMenu } from "react-icons/rx";
+import { RiShoppingCartLine } from "react-icons/ri";
 
 function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -44,7 +45,6 @@ function Navbar() {
               <a href="">About</a>
               <a href="">Menu</a>
               <a href="">Contact</a>
-              <a href="" className="a-head">Reserve</a>
             </li>
           </ul>
         </div>
