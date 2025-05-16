@@ -74,6 +74,11 @@
             font-size: 20px;
             border-radius: 5px;
             font-weight: bold;
+            transition: .25s ease-in-out;
+        }
+        .submit:hover{
+            background-color: #9d7800;
+            color: #333;
         }
         }
         

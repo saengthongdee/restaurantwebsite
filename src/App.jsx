@@ -10,8 +10,8 @@ function App() {
   const [count, setCount] = useState(0)
 
     useEffect(() => {
-    if (window.innerWidth < 768) {
-      alert("This site is available only on iPad or larger devices.");
+    if (window.innerWidth < 1024) {
+      alert("This site is only available on desktop and larger devices.");
       window.location.href = "/not-supported";
     }
   }, []);
